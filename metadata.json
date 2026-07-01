@@ -1,0 +1,6 @@
+{
+  "name": "SentinelNOC",
+  "description": "Predictive AI-Powered Copilot for Secure and Resilient Network Operations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
